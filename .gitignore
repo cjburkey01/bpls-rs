@@ -1,0 +1,8 @@
+# Rust
+/target
+**/*.rs.bk
+[Cc]argo.lock
+
+# Idea
+.idea/*
+*.iml
