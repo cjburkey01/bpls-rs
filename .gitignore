@@ -6,3 +6,5 @@
 # Idea
 .idea/*
 *.iml
+!.idea/dictionaries/
+!.idea/dictionaries/cjburkey.xml
